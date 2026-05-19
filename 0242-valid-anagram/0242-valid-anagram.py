@@ -9,4 +9,7 @@ class Solution:
 
             dict2[t[i]] = 1 + dict2.get(t[i],0)
         
-        return dict1 == dict2
+        for i in dict1:
+            if dict1[i] != dict2.get(i,0):
+                return False
+        return True
