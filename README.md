@@ -9,11 +9,11 @@
 
 | Metric | Count |
 |---|---|
-| ✅ Total Solved | 0 |
-| 🟢 Easy | 0 |
+| ✅ Total Solved | 3 |
+| 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| 📅 Current Streak | 0 days |
+| 📅 Current Streak | 2 days |
 | 🎯 Monthly Target | 30–35 problems |
 
 > Update this table manually every week.
@@ -24,7 +24,7 @@
 
 | # | Topic | Status | Easy Done | Medium Done | Hard Done | Notes |
 |---|-------|--------|-----------|-------------|-----------|-------|
-| 1 | Arrays & Hashing | 🔲 Not Started | 0 | 0 | 0 | |
+| 1 | Arrays & Hashing | 🟡 In Progress | 3 | 0 | 0 | |
 | 2 | Two Pointers | 🔲 Not Started | 0 | 0 | 0 | |
 | 3 | Sliding Window | 🔲 Not Started | 0 | 0 | 0 | |
 | 4 | Stack | 🔲 Not Started | 0 | 0 | 0 | |
@@ -46,9 +46,9 @@
 
 | # | Problem | LeetCode # | Difficulty | Topic | Date Solved | My Solution | Time | Space |
 |---|---------|-----------|------------|-------|-------------|-------------|------|-------|
-| 1 | Two Sum | #1 | 🟢 Easy | Arrays & Hashing | | [solution](arrays/two_sum.py) | O(n) | O(n) |
-| 2 | Contains Duplicate | #217 | 🟢 Easy | Arrays & Hashing | | | | |
-| 3 | Valid Anagram | #242 | 🟢 Easy | Arrays & Hashing | | | | |
+| 1 | Two Sum | #1 | 🟢 Easy | Arrays & Hashing | 19-05-26 | [solution](arrays/two_sum.py) | O(n) | O(n) |
+| 2 | Contains Duplicate | #217 | 🟢 Easy | Arrays & Hashing | 18-05-26 | | | |
+| 3 | Valid Anagram | #242 | 🟢 Easy | Arrays & Hashing | 18-05-26 | | | |
 | 4 | Group Anagrams | #49 | 🟡 Medium | Arrays & Hashing | | | | |
 | 5 | Top K Frequent Elements | #347 | 🟡 Medium | Arrays & Hashing | | | | |
 | 6 | Product of Array Except Self | #238 | 🟡 Medium | Arrays & Hashing | | | | |
