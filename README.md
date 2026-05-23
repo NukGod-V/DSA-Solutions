@@ -168,6 +168,7 @@ Use this to track your consistency week by week.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -193,4 +194,8 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
