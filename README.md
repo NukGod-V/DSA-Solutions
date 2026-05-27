@@ -149,6 +149,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NukGod-V/DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -167,6 +168,7 @@ Use this to track your consistency week by week.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -202,6 +204,7 @@ Use this to track your consistency week by week.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Matrix
