@@ -226,8 +226,13 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
