@@ -153,6 +153,7 @@ Use this to track your consistency week by week.
 | [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NukGod-V/DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -226,6 +227,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -235,4 +237,8 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
