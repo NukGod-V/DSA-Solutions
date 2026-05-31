@@ -158,6 +158,7 @@ Use this to track your consistency week by week.
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@ Use this to track your consistency week by week.
 | [0020-valid-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +243,8 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
