@@ -9,11 +9,11 @@
 
 | Metric | Count |
 |---|---|
-| ✅ Total Solved | 18 |
+| ✅ Total Solved | 20 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 10 |
+| 🟡 Medium | 13 |
 | 🔴 Hard | 1 |
-| 📅 Current Streak | 7 days |
+| 📅 Current Streak | 15 days |
 | 🎯 Monthly Target | 30–35 problems |
 
 > Update this table manually every week.
@@ -28,7 +28,7 @@
 | 2 | Two Pointers | ✅ Complete | 1 | 3 | 1 | |
 | 3 | Sliding Window | 🔲 Not Started | 0 | 0 | 0 | |
 | 4 | Stack | 🟡 In Progress | 1 | 3 | 0 | |
-| 5 | Binary Search | 🟡 In Progress | 1 | 0 | 0 | |
+| 5 | Binary Search | 🟡 In Progress | 1 | 1 | 0 | |
 | 6 | Linked List | 🔲 Not Started | 0 | 0 | 0 | |
 | 7 | Trees (Binary) | 🔲 Not Started | 0 | 0 | 0 | |
 | 8 | Heap / Priority Queue | 🔲 Not Started | 0 | 0 | 0 | |
@@ -49,13 +49,13 @@
 | 1 | Two Sum | #1 | 🟢 Easy | Arrays & Hashing | 19-05-26 | [solution](arrays/two_sum.py) | O(n) | O(n) |
 | 2 | Contains Duplicate | #217 | 🟢 Easy | Arrays & Hashing | 18-05-26 | | | |
 | 3 | Valid Anagram | #242 | 🟢 Easy | Arrays & Hashing | 18-05-26 | | | |
-| 4 | Group Anagrams | #49 | 🟡 Medium | Arrays & Hashing | | | | |
-| 5 | Top K Frequent Elements | #347 | 🟡 Medium | Arrays & Hashing | | | | |
-| 6 | Product of Array Except Self | #238 | 🟡 Medium | Arrays & Hashing | | | | |
-| 7 | Valid Palindrome | #125 | 🟢 Easy | Two Pointers | | | | |
-| 8 | Two Sum II | #167 | 🟡 Medium | Two Pointers | | | | |
-| 9 | 3Sum | #15 | 🟡 Medium | Two Pointers | | | | |
-| 10 | Container With Most Water | #11 | 🟡 Medium | Two Pointers | | | | |
+| 4 | Group Anagrams | #49 | 🟡 Medium | Arrays & Hashing | May 19, 2026 | | | |
+| 5 | Top K Frequent Elements | #347 | 🟡 Medium | Arrays & Hashing | May 20, 2026 | | | |
+| 6 | Product of Array Except Self | #238 | 🟡 Medium | Arrays & Hashing | May 22, 2026 | | | |
+| 7 | Valid Palindrome | #125 | 🟢 Easy | Two Pointers | May 23, 2026 | | | |
+| 8 | Two Sum II | #167 | 🟡 Medium | Two Pointers | May 26, 2026 | | | |
+| 9 | 3Sum | #15 | 🟡 Medium | Two Pointers | May 26, 2026 | | | |
+| 10 | Container With Most Water | #11 | 🟡 Medium | Two Pointers | May 29, 2026 | | | |
 | 11 | Best Time to Buy and Sell Stock | #121 | 🟢 Easy | Sliding Window | | | | |
 | 12 | Longest Substring Without Repeating | #3 | 🟡 Medium | Sliding Window | | | | |
 | 13 | Longest Repeating Char Replacement | #424 | 🟡 Medium | Sliding Window | | | | |
