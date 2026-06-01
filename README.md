@@ -9,11 +9,11 @@
 
 | Metric | Count |
 |---|---|
-| ✅ Total Solved | 3 |
-| 🟢 Easy | 3 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| 📅 Current Streak | 2 days |
+| ✅ Total Solved | 18 |
+| 🟢 Easy | 6 |
+| 🟡 Medium | 10 |
+| 🔴 Hard | 1 |
+| 📅 Current Streak | 7 days |
 | 🎯 Monthly Target | 30–35 problems |
 
 > Update this table manually every week.
@@ -24,11 +24,11 @@
 
 | # | Topic | Status | Easy Done | Medium Done | Hard Done | Notes |
 |---|-------|--------|-----------|-------------|-----------|-------|
-| 1 | Arrays & Hashing | 🟡 In Progress | 3 | 0 | 0 | |
-| 2 | Two Pointers | 🔲 Not Started | 0 | 0 | 0 | |
+| 1 | Arrays & Hashing | ✅ Complete | 3 | 6 | 0 | |
+| 2 | Two Pointers | ✅ Complete | 1 | 3 | 1 | |
 | 3 | Sliding Window | 🔲 Not Started | 0 | 0 | 0 | |
-| 4 | Stack | 🔲 Not Started | 0 | 0 | 0 | |
-| 5 | Binary Search | 🔲 Not Started | 0 | 0 | 0 | |
+| 4 | Stack | 🟡 In Progress | 1 | 3 | 0 | |
+| 5 | Binary Search | 🟡 In Progress | 1 | 0 | 0 | |
 | 6 | Linked List | 🔲 Not Started | 0 | 0 | 0 | |
 | 7 | Trees (Binary) | 🔲 Not Started | 0 | 0 | 0 | |
 | 8 | Heap / Priority Queue | 🔲 Not Started | 0 | 0 | 0 | |
