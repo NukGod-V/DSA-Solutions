@@ -3,7 +3,7 @@ class Solution:
 
         l, h = 0, len(nums) - 1
         while l<=h:
-            ind = l + ((h-l) //2)
+            ind = (l+h) //2
             if nums[ind] == target:
                 return ind
             elif nums[ind] < target:
