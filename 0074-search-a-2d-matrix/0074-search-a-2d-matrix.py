@@ -14,7 +14,7 @@ class Solution:
         if not (top<=bot):
             return False
         l, r = 0, COLS - 1
-        # row = (top + bot) // 2
+        row = (top + bot) // 2
         while l <=r:
             m = (r+l)//2
             if target > matrix[row][m]:
