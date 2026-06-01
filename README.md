@@ -159,6 +159,7 @@ Use this to track your consistency week by week.
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
