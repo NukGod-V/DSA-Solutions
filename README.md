@@ -162,6 +162,7 @@ Use this to track your consistency week by week.
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ Use this to track your consistency week by week.
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ Use this to track your consistency week by week.
 | [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
