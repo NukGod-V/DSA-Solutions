@@ -163,6 +163,7 @@ Use this to track your consistency week by week.
 | [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/NukGod-V/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ Use this to track your consistency week by week.
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/NukGod-V/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
