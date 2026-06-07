@@ -151,6 +151,7 @@ Use this to track your consistency week by week.
 | [0001-two-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -236,6 +237,7 @@ Use this to track your consistency week by week.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
