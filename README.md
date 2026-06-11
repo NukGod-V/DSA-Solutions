@@ -227,6 +227,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/NukGod-V/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -295,6 +296,7 @@ Use this to track your consistency week by week.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/NukGod-V/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
