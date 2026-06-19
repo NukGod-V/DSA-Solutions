@@ -183,6 +183,7 @@ Use this to track your consistency week by week.
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Use this to track your consistency week by week.
 | [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ Use this to track your consistency week by week.
 | [0143-reorder-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NukGod-V/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
