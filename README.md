@@ -210,10 +210,12 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NukGod-V/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/NukGod-V/DSA-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/NukGod-V/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
@@ -357,4 +360,8 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/NukGod-V/DSA-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
