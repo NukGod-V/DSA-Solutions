@@ -164,6 +164,7 @@ Use this to track your consistency week by week.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -216,6 +217,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NukGod-V/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NukGod-V/DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Linked List
@@ -364,4 +367,12 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
