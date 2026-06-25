@@ -319,6 +319,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/NukGod-V/DSA-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/NukGod-V/DSA-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/NukGod-V/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
@@ -327,6 +328,7 @@ Use this to track your consistency week by week.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/NukGod-V/DSA-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/NukGod-V/DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Tree
