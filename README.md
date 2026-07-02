@@ -209,6 +209,7 @@ Use this to track your consistency week by week.
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -297,6 +298,7 @@ Use this to track your consistency week by week.
 | [0155-min-stack](https://github.com/NukGod-V/DSA-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -350,6 +352,7 @@ Use this to track your consistency week by week.
 | [0199-binary-tree-right-side-view](https://github.com/NukGod-V/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -361,6 +364,7 @@ Use this to track your consistency week by week.
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -369,6 +373,7 @@ Use this to track your consistency week by week.
 | [0104-maximum-depth-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/NukGod-V/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +385,7 @@ Use this to track your consistency week by week.
 | [0199-binary-tree-right-side-view](https://github.com/NukGod-V/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
