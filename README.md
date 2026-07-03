@@ -226,6 +226,7 @@ Use this to track your consistency week by week.
 | [0023-merge-k-sorted-lists](https://github.com/NukGod-V/DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@ Use this to track your consistency week by week.
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ Use this to track your consistency week by week.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +390,7 @@ Use this to track your consistency week by week.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,9 +416,14 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
