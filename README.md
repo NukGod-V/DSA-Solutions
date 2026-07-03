@@ -172,6 +172,7 @@ Use this to track your consistency week by week.
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/NukGod-V/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1046-last-stone-weight](https://github.com/NukGod-V/DSA-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ Use this to track your consistency week by week.
 | [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/NukGod-V/DSA-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
