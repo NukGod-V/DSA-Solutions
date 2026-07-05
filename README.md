@@ -169,6 +169,7 @@ Use this to track your consistency week by week.
 | [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/NukGod-V/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/NukGod-V/DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
@@ -192,6 +193,7 @@ Use this to track your consistency week by week.
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/NukGod-V/DSA-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/NukGod-V/DSA-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ Use this to track your consistency week by week.
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/NukGod-V/DSA-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -231,6 +234,7 @@ Use this to track your consistency week by week.
 | [0215-kth-largest-element-in-an-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/NukGod-V/DSA-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
@@ -241,6 +245,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NukGod-V/DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +304,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0621-task-scheduler](https://github.com/NukGod-V/DSA-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
