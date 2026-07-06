@@ -156,6 +156,7 @@ Use this to track your consistency week by week.
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NukGod-V/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NukGod-V/DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -407,6 +408,7 @@ Use this to track your consistency week by week.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -439,4 +441,8 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NukGod-V/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
