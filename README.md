@@ -157,6 +157,7 @@ Use this to track your consistency week by week.
 | [0039-combination-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/NukGod-V/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -448,5 +449,6 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/NukGod-V/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
