@@ -161,6 +161,7 @@ Use this to track your consistency week by week.
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NukGod-V/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NukGod-V/DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/NukGod-V/DSA-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -412,6 +413,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -451,4 +453,5 @@ Use this to track your consistency week by week.
 | [0040-combination-sum-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/NukGod-V/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
