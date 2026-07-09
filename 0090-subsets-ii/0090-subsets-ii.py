@@ -4,7 +4,7 @@ class Solution:
         nums.sort()
         def backtrack(i: int, cur: List[int]) -> None:
             if i >= len(nums):
-                res.append(cur.copy())
+                res.append(cur[::])
                 return
             cur.append(nums[i])
             backtrack(i+1, cur)
