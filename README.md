@@ -218,6 +218,7 @@ Use this to track your consistency week by week.
 | [0022-generate-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NukGod-V/DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/NukGod-V/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/NukGod-V/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -338,6 +339,7 @@ Use this to track your consistency week by week.
 | [0022-generate-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/NukGod-V/DSA-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NukGod-V/DSA-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/NukGod-V/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,4 +459,5 @@ Use this to track your consistency week by week.
 | [0046-permutations](https://github.com/NukGod-V/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/NukGod-V/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
