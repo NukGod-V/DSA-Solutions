@@ -185,6 +185,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NukGod-V/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NukGod-V/DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NukGod-V/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -214,6 +215,7 @@ Use this to track your consistency week by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NukGod-V/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NukGod-V/DSA-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -453,6 +455,7 @@ Use this to track your consistency week by week.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NukGod-V/DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/NukGod-V/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/NukGod-V/DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
