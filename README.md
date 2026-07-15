@@ -168,6 +168,7 @@ Use this to track your consistency week by week.
 | [0150-evaluate-reverse-polish-notation](https://github.com/NukGod-V/DSA-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NukGod-V/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0212-word-search-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/NukGod-V/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/NukGod-V/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NukGod-V/DSA-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -223,6 +224,7 @@ Use this to track your consistency week by week.
 | [0131-palindrome-partitioning](https://github.com/NukGod-V/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/NukGod-V/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NukGod-V/DSA-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -282,6 +284,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/NukGod-V/DSA-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/NukGod-V/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0212-word-search-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +451,7 @@ Use this to track your consistency week by week.
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NukGod-V/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NukGod-V/DSA-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,4 +467,5 @@ Use this to track your consistency week by week.
 | [0078-subsets](https://github.com/NukGod-V/DSA-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NukGod-V/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0212-word-search-ii](https://github.com/NukGod-V/DSA-Solutions/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
